@@ -1,0 +1,22 @@
+img {
+    float: left;
+    height: 300px;
+    width: 300px;
+    margin-right: 20px;
+}
+
+h1 {
+    border-bottom-style: inset;
+}
+
+#equilatero {
+    display: none;
+}
+
+#isoceles {
+    display: none;
+}
+
+#escaleno {
+    display: none;
+}
